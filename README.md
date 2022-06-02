@@ -1,20 +1,19 @@
-![Thumbnails GitHub](https://user-images.githubusercontent.com/9091491/123842348-0e116c80-d8e7-11eb-8618-9c15cc743335.png)
 
-![](https://img.shields.io/github/license/nataliakt/alura-react-native-comecando-do-zero)
+# ⚛️ React Native: Primeira tela para o App MatrizKIDS
 
-# ⚛️ React Native: Começando do Zero
-
-Esse é o projeto do curso **Começando do Zero** da formação em **React Native** na [Alura](https://www.alura.com.br/).
+Essa é a aplicação do Fábio Mori após concluir o projeto do curso **Começando do Zero** da formação em **React Native** na [Alura](https://www.alura.com.br/).
 
 ## 📱 Projeto
 
-Este projeto implementa a tela de detalhes da cesta do e-commerce *orgs*. Nesta tela são mostrados dados estáticos do nome da cesta, fazenda, preço e itens da cesta.
+Neste projeto foi aplicado todo aprendizado para fazer uma tela relacionada ao jogo warX para o aplicativo do MatrizKIDS, uma edtech que ensina crianças a programarem através do Scratch
 
-<img src="https://user-images.githubusercontent.com/9091491/123982988-e3ccb700-d999-11eb-880e-872881ee8b10.gif" width="350" />
+<img src="https://user-images.githubusercontent.com/101336111/171656025-318c2b4f-5218-4b16-b1bc-127af5a2dcea.png" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/101336111/171656038-6ddc3205-9082-4f13-b3b5-23a5b0329a84.png" width="300" height="600">
+
 
 ## 🧑‍💻 Técnicas e Tecnologias
 
-As técnicas e tecnologias utilizadas no projeto são:
+As técnicas e tecnologias ensinadas pela [Alura](https://www.alura.com.br/) no projeto são:
 
 - `Expo`: tecnologia para simplificar o ambiente de desenvolvimento
 - `Componentes React Native`: componentes já existentes básicos da tecnologia para compor a tela
@@ -29,36 +28,26 @@ As técnicas e tecnologias utilizadas no projeto são:
 - `StyleSheet`: estilização básica de componentes
 - `Dimensions`: captura de dados das dimenções da tela
 
-## 📲 Executando o projeto
+## 📲 Aprendizado do aluno Fábio Mori
+### Tags e comandos React Native
 
-### ✔️ Pré-requisitos
+- `Button`: 
+- `ScrollView`:
+- `FlatList`:
+- `StyleSheet`:
+- 
 
-Para conseguir seguir este README e rodar o projeto você pode precisar dos seguintes itens:
-- Git para clonar o projeto e acessar as branches. Você pode instalar [aqui](https://git-scm.com/downloads);
-- Node para podermos rodar `expo` e `npm`. Você pode instala-lo [aqui](https://nodejs.org/en/);
-- Um celular Android ou iOS com o aplicativo Expo instalado, ou então algum simulador Android ou iOS no computador;
+### Outras coisas importantes
 
-Se quiser testar as instalações, rodar os comandos abaixo separadamente deve mostrar as respectivas versões.
+- reutilizar componentes:
+- desconstruir objetos
+- o que é mocks:
+- organizar textos em um só local:
+- criar estilos:
+- usar fonte externa:
 
-```
-git --version
-node --version
-npm --version
-```
 
-Então com o `npm` instalado podemos instalar o `expo` e checar a versão:
-```
-npm install --global expo-cli
-expo --version
-```
 
-### 🐙 Clonando o projeto
-
-Para ter acesso aos arquivos do projeto você pode clonar usando o seguinte comando:
-
-```
-git clone https://github.com/alura-cursos/react-native-comecando-do-zero.git
-```
 
 ### ▶️ Rodando o Projeto
 
@@ -71,10 +60,3 @@ Então podemos rodar o projeto:
 ```
 npm start
 ```
-
-Uma guia no navegador irá abrir, geralmente [neste endereço](http://localhost:19002/).
-Caso estiver com o celular, **escaneie o QR code com o aplicativo do Expo** ou a câmera.
-Se seu celular estiver em outra rede diferente do computador, troque a "CONNECTION" para "Tunnel", que o app será transmitido via internet.
-Se tiver um simulador, clique na opção do sistema operacional do seu simulador no menu esquerdo.
-
-Pronto, agora o app você deve ver o app rodando.
