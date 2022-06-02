@@ -7,7 +7,7 @@ import Topo from './componentes/Topo';
 import Detalhes from './componentes/Detalhes';
 import Item from './componentes/Item';
 
-export default function Cesta({ topo, detalhes, itens }) {
+export default function Jogo({ topo, detalhes, itens }) {
     return <>
         <FlatList
             data={itens.lista}
@@ -16,7 +16,7 @@ export default function Cesta({ topo, detalhes, itens }) {
             ListHeaderComponent={() => {
                 return <>
                     <Topo {...topo} />
-                    <View style={estilos.cesta}>
+                    <View style={estilos.jogo}>
                         <Detalhes {...detalhes}/> 
                         <Texto style={estilos.titulo}>{itens.titulo}</Texto>
                     </View>
@@ -27,7 +27,7 @@ export default function Cesta({ topo, detalhes, itens }) {
 }
 
 const estilos = StyleSheet.create({
-    cesta:{
+    jogo:{
         paddingVertical: 8,
         paddingHorizontal: 16,
     },

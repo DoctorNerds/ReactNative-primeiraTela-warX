@@ -2,13 +2,13 @@ import React from 'react';
 import { Image, StyleSheet, Dimensions} from 'react-native';
 
 import Texto from '../../../componentes/Texto';
-import topo from '../../../../assets/topo.png';
+import capa from '../../../../assets/capa.png';
 
 const width = Dimensions.get('screen').width
 
 export default function Topo({ nome, logoFazenda, nomeFazenda, titulo }) {
     return <>
-        <Image source={topo} style={estilos.topo} />
+        <Image source={capa} style={estilos.topo} />
         <Texto style={estilos.titulo}>{titulo}</Texto>    
     </>
 }
@@ -16,7 +16,7 @@ export default function Topo({ nome, logoFazenda, nomeFazenda, titulo }) {
 const estilos = StyleSheet.create({
     topo: {
         width: '100%',
-        height: 578/768 * width,
+        height: 1120/1960 * width,
     },
     
     titulo: {
