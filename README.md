@@ -56,7 +56,7 @@ Segui todos os passos explicados durante as aulas do curso **React Native: crian
 - **Usar fonte externa:** além das fontes já disponíveis no React Native, podemos importar fontes externas para utilizarmos na nossa aplicação. O **Google fonts** tem todas as fontes e você pode baixar os arquivos *.ttf* e instalá-los manualmente. Na documentação oficial do Expo é ensinado como fazer isso também. O código que pode ser utilizado é ``expo install expo-font @expo-google-fonts/nome-da-fonte``, após essa instalação é necessário aplicar a fonte no arquivo *App.js* e dentro da função ``App(){}``.
 - **Para editar textos ao mesmo tempo:** selecione a palavra e aperte *Ctrl* o *Comand + D*. Toda vez que você apertar este comando ele seleciona o próximo igual, depois aperte a seta para a direita e edite. 
 
-### Conceitos importantes
+### Conceitos aprendidos
 
 - **API:** Interface de Programação e Aplicação, é um conjunto de padrões que fazem parte de uma interface e permitem a criação de plataformas de maneira mais simples e pratica para desenvolvedores. A partir dela criamos softwares, apps, dentre outras aplicações. Apps para celulares são criados a partir de padrões definidos e disponibilizados pelas APIs de cada sistema operacional, ou seja, ela é um conjunto de normas que possibilita a comunicação entre plataformas através de uma série de padrões e protocolos. 
 -  **Arquivos.src:** Código fonte de um programa escrito em uma das muitas linguagens de programação. Pode ser editado com software de programação ou usando um editor de texto básico, além de poder ser compilado em um programa executável usando um compilador de software.
@@ -66,12 +66,12 @@ Segui todos os passos explicados durante as aulas do curso **React Native: crian
 
 ### ▶️ Rodando o Projeto
 
-Agora que já tem a pasta do projeto na sua máquina, dentro dela instale as dependências:
+Com a pasta do projeto no computador, primeiro instalar as dependências:
 ```
 npm install
 ```
 
-Então podemos rodar o projeto:
+Em seguida iniciar o projeto:
 ```
 npm start
 ```
