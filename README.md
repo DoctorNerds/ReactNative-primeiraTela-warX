@@ -10,7 +10,6 @@ Neste projeto foi aplicado todo aprendizado para fazer uma tela relacionada ao j
 <img src="https://user-images.githubusercontent.com/101336111/171656025-318c2b4f-5218-4b16-b1bc-127af5a2dcea.png" width="300" height="600">
 <img src="https://user-images.githubusercontent.com/101336111/171656038-6ddc3205-9082-4f13-b3b5-23a5b0329a84.png" width="300" height="600">
 
-
 ## 🧑‍💻 Técnicas e Tecnologias
 
 As técnicas e tecnologias ensinadas pela [Alura](https://www.alura.com.br/) no projeto são:
@@ -61,8 +60,6 @@ Segui todos os passos explicados durante as aulas do curso **React Native: crian
 - **API:** Interface de Programação e Aplicação, é um conjunto de padrões que fazem parte de uma interface e permitem a criação de plataformas de maneira mais simples e pratica para desenvolvedores. A partir dela criamos softwares, apps, dentre outras aplicações. Apps para celulares são criados a partir de padrões definidos e disponibilizados pelas APIs de cada sistema operacional, ou seja, ela é um conjunto de normas que possibilita a comunicação entre plataformas através de uma série de padrões e protocolos. 
 -  **Arquivos.src:** Código fonte de um programa escrito em uma das muitas linguagens de programação. Pode ser editado com software de programação ou usando um editor de texto básico, além de poder ser compilado em um programa executável usando um compilador de software.
 -  **ADB:** Android Debug Bridge, é uma ferramenta de linha de comando versátil que permite a comunicação com um dispositivo. Este comando facilita uma variedade de ações do dispositivo, como instalar e depurar apps, dentre outros.
-
-
 
 ### ▶️ Rodando o Projeto
 
