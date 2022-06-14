@@ -7,8 +7,8 @@ Essa é a aplicação do Fábio Mori após concluir o projeto do curso **Criando
 
 Neste projeto foi aplicado todo aprendizado para fazer uma tela relacionada ao jogo warX para o aplicativo do MatrizKIDS, uma edtech que ensina crianças a programarem através do Scratch
 
-<img src="https://user-images.githubusercontent.com/101336111/171656025-318c2b4f-5218-4b16-b1bc-127af5a2dcea.png" width="300" height="600">
-<img src="https://user-images.githubusercontent.com/101336111/171656038-6ddc3205-9082-4f13-b3b5-23a5b0329a84.png" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/101336111/171656025-318c2b4f-5218-4b16-b1bc-127af5a2dcea.png" width="350" height="600">
+<img src="https://user-images.githubusercontent.com/101336111/171656038-6ddc3205-9082-4f13-b3b5-23a5b0329a84.png" width="350" height="600">
 
 ## 🧑‍💻 Técnicas e Tecnologias
 
