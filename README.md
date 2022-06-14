@@ -1,7 +1,7 @@
 
 # ⚛️ React Native: Primeira tela para o App MatrizKIDS
 
-Essa é a aplicação do Fábio Mori após concluir o projeto do curso **Começando do Zero** da formação em **React Native** na [Alura](https://www.alura.com.br/).
+Essa é a aplicação do Fábio Mori após concluir o projeto do curso **Criando um App** da formação em **React Native** na [Alura](https://www.alura.com.br/).
 
 ## 📱 Projeto
 
